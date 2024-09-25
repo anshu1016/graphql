@@ -1,0 +1,4 @@
+// it is used to write the pieces of code which will compile our  code from the latest version of js.
+{
+  "presets": ["@babel/preset-env"]
+}
